@@ -34,3 +34,5 @@
 
 * `1 <= s.length <= 10^4`
 * `s` состоит только из скобок `'()[]{}'`
+
+Ссылка на источник: https://leetcode.com/problems/valid-parentheses
